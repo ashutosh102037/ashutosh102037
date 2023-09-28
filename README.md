@@ -17,10 +17,20 @@
 - 👯 I’m looking to collaborate on real products while working for an organization.<br>
 - 💬 Ask me about Javascript, Frontend or MERN Stack I would love to help.<br>
 -⚡ Self and quick learner, self-motivated, and social.<br>
-- 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/ashutosh-k-8307b9158/">LinkedIn</a> or can put a <a href="mailto:ashutoskumar102037@gmail.com">mail</a>
+- 📫 You can reach out to me directly via <a href="https://www.linkedin.com/in/ashutosh-k-8307b9158/">LinkedIn</a> 
 <br>
 <br>
 
+<h3>Contact Information</h3>
+<p>
+    📧 Email: <a href="mailto:ashutoshkumar102037@gmail.com">Gmail</a><br>
+    📍 Address: Jaunpur, Uttar Pradesh<br>
+    ☎️ Phone: +91 7084404365
+        
+</p>
+
+
+<br>
 <p>
     <strong>
         Here is the link of my personal portfolio    <a href="#">Click Here</a>
