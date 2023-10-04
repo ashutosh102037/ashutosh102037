@@ -26,8 +26,8 @@
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh" height="20" width="30" /></a>  <br><br>
     📧 Email: <a href="mailto:ashutoshkumar102037@gmail.com">Gmail</a><br><br>
     📍 Address: Jaunpur, Uttar Pradesh<br><br>
-    🔗 Portfolio : <a href="mailto:ashutoshkumar102037@gmail.com">Click Here</a> <br><br>
-    📄 Resume :  <br><br>
+    🔗 Portfolio : <a href="https://drive.google.com/file/d/1tIQ9o9sWW51eO8W3wmgld4kFSB-cunhI/view?usp=sharing">Click Here</a> <br><br>
+    📄 Resume : <a href="https://drive.google.com/file/d/1tIQ9o9sWW51eO8W3wmgld4kFSB-cunhI/view?usp=sharing">Click Here</a> <br><br>
 
    
 
